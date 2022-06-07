@@ -16,7 +16,7 @@
 **使用条件** ：
 1. 以上均不依赖任何Android权限
 2. 以上支持oppo，vivo，华为，小米，原生等主流机型
-3. 以上支持MIUI13、ColorOs12、OriginOs Ocean、鸿蒙等主流系统
+3. 以上支持MIUI13、ColorOs12、OriginOs Ocean、鸿蒙、原生等主流系统
 
 **缺点** ：
 1. 耗电相对没有保活的APP快些
