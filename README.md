@@ -1,5 +1,5 @@
 # keepalive
-**技术交流QQ：1220745412  （仅供学习研究，请勿用于非法用途，否则后果自负）** 
+**Android技术交流QQ：1220745412** 
 
 **测试包**：
  https://github.com/sysiiii/keepalive/blob/main/KeepAlive.apk
@@ -22,3 +22,4 @@
 
 **备注** ：
 1. 为避免滥用，项目不开源
+2. 技术仅供学习研究，请勿用于非法用途，否则后果自负
