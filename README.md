@@ -12,7 +12,7 @@
 4. 支持Android 4-12保活
 
 **特点** ：
-1. 不依赖任何Android权限
+1. 不依赖Android权限
 2. 不依赖第三方库
 3. 支持主流Android机型、主流Android系统
 
