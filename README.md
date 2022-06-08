@@ -1,8 +1,9 @@
 # keepalive
-**源码联系QQ：1220745412** 
+**源码联系QQ：1220745412  （仅供学习研究，请勿用于非法用途，否则后果自负）** 
 
 **测试包**：
  https://github.com/sysiiii/keepalive/blob/main/KeepAlive.apk
+
 
 **功能**
 1. 拒绝应用强杀
