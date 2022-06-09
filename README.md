@@ -25,6 +25,4 @@
 2. 技术仅供学习研究，请勿用于非法用途，否则后果自负
 
 **技术原理** ：
-
-- [Android 黑科技保活实现原理揭秘](http://weishu.me/2020/01/16/a-keep-alive-method-on-android/)
-- [Android黑科技保活的技术实现](https://juejin.im/post/5e820b61e51d45470652e7b8)
+1. [Android黑科技保活的技术实现](https://juejin.im/post/5e820b61e51d45470652e7b8)
